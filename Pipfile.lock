@@ -70,10 +70,10 @@
         },
         "isort": {
             "hashes": [
-                "sha256:60a1b97e33f61243d12647aaaa3e6cc6778f5eb9f42997650f1cc975b6008750",
-                "sha256:d488ba1c5a2db721669cc180180d5acf84ebdc5af7827f7aaeaa75f73cf0e2b8"
+                "sha256:36f0c6659b9000597e92618d05b72d4181104cf59472b1c6a039e3783f930c95",
+                "sha256:ba040c24d20aa302f78f4747df549573ae1eaf8e1084269199154da9c483f07f"
             ],
-            "version": "==5.4.2"
+            "version": "==5.5.4"
         },
         "lazy-object-proxy": {
             "hashes": [
@@ -125,10 +125,10 @@
         },
         "rope": {
             "hashes": [
-                "sha256:658ad6705f43dcf3d6df379da9486529cf30e02d9ea14c5682aa80eb33b649e1"
+                "sha256:786b5c38c530d4846aa68a42604f61b4e69a493390e3ca11b88df0fbfdc3ed04"
             ],
             "index": "pypi",
-            "version": "==0.17.0"
+            "version": "==0.18.0"
         },
         "six": {
             "hashes": [
