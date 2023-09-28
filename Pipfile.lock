@@ -134,11 +134,11 @@
     "develop": {
         "astroid": {
             "hashes": [
-                "sha256:958f280532e36ca84a13023f15cb1556fb6792d193acb87e1f3ca536b6fa6bd2",
-                "sha256:c522f2832a900e27a7d284b9b6ef670d2495f760ede3c8c0b004a5641d3c5987"
+                "sha256:1aa149fc5c6589e3d0ece885b4491acd80af4f087baafa3fb5203b113e68cd3c",
+                "sha256:6c107453dffee9055899705de3c9ead36e74119cee151e5a9aaf7f0b0e020a6a"
             ],
             "markers": "python_full_version >= '3.7.2'",
-            "version": "==2.15.7"
+            "version": "==2.15.8"
         },
         "autopep8": {
             "hashes": [
@@ -261,12 +261,12 @@
         },
         "rope": {
             "hashes": [
-                "sha256:2ed32d72cd2c4395bb1d569e38fd4f15d6080cfadd61b6e5c565fd39e3f677aa",
-                "sha256:f48d708132c0e062b411308732ca13933b976486b4b53d1e804f94ed08d69503"
+                "sha256:14bfcc7dfea69fa32c53db0667e86e321ef059de555c7f8101a0cb91c8d85a55",
+                "sha256:4e9f06d7296708a8a6518590c49352c99394053d91fde5b1d74c9ffc85c76d5b"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
-            "version": "==1.9.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==1.10.0"
         },
         "tomli": {
             "hashes": [
